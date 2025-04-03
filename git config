@@ -1,0 +1,4 @@
+# смените каталог на локальный репозиторий, в котором будет вестись работа, выполните команды
+git config user.name "Ваше имя"
+git config user.email "Адрес Вашей ЭП"
+git config --global alias.history 'log --graph'
